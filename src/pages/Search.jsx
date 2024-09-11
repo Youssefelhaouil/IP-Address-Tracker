@@ -3,7 +3,7 @@ import { IoIosArrowForward } from "react-icons/io";
 function Search() {
     return (
         <>
-            <div className="search w-full h-[300px]  flex flex-col justify-start items-center pt-8 gap-6">
+            <div className="search w-full h-[300px]  flex flex-col justify-start items-center pt-8 gap-6 ">
                 <h1 className='text-white text-[35px] text-center  '>IP Address Tracker</h1>
                 <div className='flex items-center'>
                     <input
